@@ -3,7 +3,6 @@
 **Detecting and Visualizing Digital Waste in Corporate Email Communications**
 *A Machine Learning Approach for Estimating Energy Savings and CO₂ Reduction*
 
-<!-- TODO: replace with your Streamlit app URL -->
 **Live dashboard:** https://udwd-framework.streamlit.app/
 
 ---
